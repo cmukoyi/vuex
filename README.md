@@ -55,5 +55,6 @@ Please make sure to read the [Contributing Guide](https://github.com/vuejs/vuex/
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+Hi there
 
 Copyright (c) 2015-present Evan You
